@@ -1,5 +1,5 @@
 // Typing effect
-const words = ['Website Developer', 'Frontend Developer', 'SEO Enthusiast'];
+const words = ['CSE (AI) Graduate', 'Python Developer', 'Web Developer'];
 const typed = document.getElementById('typed');
 let wordIndex = 0;
 let charIndex = 0;
